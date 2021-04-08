@@ -8,7 +8,7 @@ h2 {
     padding: 0;
     margin: auto;
     max-width: 1000px;
-  
+   
     /* flexbox */
     display: flex;
     flex-direction: row;
@@ -19,7 +19,7 @@ h2 {
   }
   
   a {
-    background-color: #3f525c;
+    background-color: rgb(206, 71, 93);
     border-radius: 2px;
     padding: 1rem;
     font-size: 1.2rem;
@@ -46,5 +46,10 @@ h2 {
   }
   
   a:hover {
-    background-color: #000;
+    background-color: rebeccapurple;
+  }
+  #header{
+    font-size: xxx-large;
+    text-shadow: 2px 2px black;
+    color: grey;
   }
